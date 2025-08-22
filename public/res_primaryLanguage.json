@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "description_header": "Hi 👋",
+    "description": "I'm Muskan Kushwah, a Full Stack Developer with 3+ years of professional experience, currently working at Chaperone. My expertise lies in building and scaling web applications using Next.js, Node.js, MongoDB, and AWS. I lead end-to-end product development — from feature discussions and architecture design to deployment and team management. Recently, I’ve expanded my journey into Artificial Intelligence and Machine Learning, an area I’ve always been passionate about. Over the last month, I’ve been actively learning and building projects in Deep Learning, Transformers, and Hugging Face pipelines for tasks like NER and text classification. My goal is to bridge my strong full-stack background with advanced AI/ML capabilities to create impactful, intelligent systems.",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "AI-Powered Citizen Issue Reporter",
+      "startDate": "18-08-2025",
+      "description": "An end-to-end full-stack application enabling citizens to report issues with AI-powered classification. Designed and implemented custom Deep Learning models with training and fine-tuning scripts, integrated them into a scalable backend, and built a seamless user-facing workflow. The system classifies, processes, and manages issues while providing robust dashboards for monitoring.",
+      "images": [
+        "images/portfolio/ai-issue-reporter/p1.png",
+        "images/portfolio/ai-issue-reporter/p2.png",
+        "images/portfolio/ai-issue-reporter/p3.png"
+      ],
+      "url": "https://github.com/muskan1515/AI-Powered-Citizen-Issue-Reporter",
+      "technologies": [
+        { "class": "devicon-nextjs-original", "name": "Next.js" },
+        { "class": "devicon-nodejs-plain", "name": "Node.js" },
+        { "class": "devicon-mongodb-plain", "name": "MongoDB" },
+        { "class": "devicon-amazonwebservices-original", "name": "AWS" },
+        { "class": "devicon-python-plain", "name": "Python" },
+        { "class": "devicon-pytorch-original", "name": "PyTorch" }
+      ]
+    },
+    {
+      "title": "Smart Career Match Resume Enhancer",
+      "startDate": "02-08-2025",
+      "description": "Built an AI-driven resume matcher using Hugging Face pipelines to analyze job descriptions and resumes, extracting key insights such as matching skills, missing skills, and overall fit. The system offers two advanced features: (1) Job Search – finds top 10 LinkedIn job matches using extracted skills with a matching score, (2) Resume Updater – semantically enriches resumes with missing skills while preserving language and grammar. Delivered with a modern, interactive frontend dashboard.",
+      "images": [
+        "images/portfolio/ai-resume-matcher/p1.png",
+        "images/portfolio/ai-resume-matcher/p2.png",
+        "images/portfolio/ai-resume-matcher/p3.png",
+        "images/portfolio/ai-resume-matcher/p4.png"
+      ],
+      "url": "https://github.com/muskan1515/Smart-Career-Match-Resume-Enhancer",
+      "technologies": [
+        { "class": "devicon-react-original", "name": "React" },
+        { "class": "devicon-nodejs-plain", "name": "Node.js" },
+        { "class": "devicon-express-original", "name": "Express" },
+        { "class": "devicon-mongodb-plain", "name": "MongoDB" },
+        { "class": "devicon-python-plain", "name": "Python" },
+        { "class": "devicon-huggingface-plain", "name": "Hugging Face" }
+      ]
+    },
+    {
+      "title": "Stock Price EDA Platform",
+      "startDate": "29-07-2025",
+      "description": "Developed a robust exploratory data analysis (EDA) platform for stock market data. Users can select major companies, define custom time ranges, clean and process raw financial data, visualize key trends, and generate comprehensive statistical reports. The app auto-generates downloadable EDA reports with meaningful insights and visualizations for decision-making.",
+      "images": ["images/portfolio/stock-eda/p1.png"],
+      "url": "https://github.com/muskan1515/Stock-Price-EDA-App",
+      "technologies": [
+        { "class": "devicon-python-plain", "name": "Python" },
+        { "class": "devicon-pandas-original", "name": "Pandas" },
+        { "class": "devicon-numpy-original", "name": "NumPy" },
+        { "class": "devicon-matplotlib-plain", "name": "Matplotlib" },
+        { "class": "devicon-plotly-plain", "name": "Plotly" }
+      ]
+    },
+    {
+      "title": "Data Profiler CLI Tool",
+      "startDate": "28-07-2025",
+      "description": "Created a Python-based CLI utility for automated data profiling. It loads CSV datasets, performs cleaning (duplicate removal, missing value imputation, text normalization, date parsing), and generates detailed exploratory reports using Sweetviz. The tool also saves Markdown summary reports for quick data sharing, making it a reusable component for analysts and ML engineers.",
+      "images": ["images/portfolio/data-profiler/p1.png"],
+      "url": "https://github.com/muskan1515/Data-profiler",
+      "technologies": [
+        { "class": "devicon-python-plain", "name": "Python" },
+        { "class": "devicon-pandas-original", "name": "Pandas" },
+        { "class": "devicon-numpy-original", "name": "NumPy" },
+        { "class": "devicon-sweetviz-plain", "name": "Sweetviz" }
+      ]
+    },
+    {
+      "title": "Automated Claim Management System",
+      "startDate": "2022",
+      "description": "Developed a claim management system for a Haryana-based client that automated the entire claims lifecycle — submission, validation, updating, and loss image verification. The system reduced manual workforce requirements by nearly 60%, significantly improving efficiency and accuracy in claim processing.",
+      "images": ["images/portfolio/claim-system/p1.png"],
+      "url": "https://github.com/muskan1515",
+      "technologies": [
+        { "class": "devicon-nextjs-original", "name": "Next.js" },
+        { "class": "devicon-nodejs-plain", "name": "Node.js" },
+        { "class": "devicon-express-original", "name": "Express" },
+        { "class": "devicon-mongodb-plain", "name": "MongoDB" },
+        { "class": "devicon-amazonwebservices-original", "name": "AWS" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Chaperone",
+      "title": "Senior Developer",
+      "years": "03.2025 - present",
+      "mainTech": ["Next.js", "Node.js", "AWS"],
+      "technologies": [
+        "Next.js",
+        "Node.js",
+        "AWS (Lambda, EC2, S3)",
+        "Scalable System Design",
+        "OpenAI APIs",
+        "Python (AI/ML basics)"
+      ]
+    },
+    {
+      "company": "Kennect Inc",
+      "title": "Software Development Engineer",
+      "years": "12.2023 - 02.2025",
+      "mainTech": ["Next.js", "Vuex", "Vuetify", "Node.js"],
+      "technologies": [
+        "Next.js",
+        "Vue.js",
+        "Vuetify",
+        "Vuex",
+        "Node.js",
+        "REST APIs",
+        "GraphQL"
+      ]
+    },
+    {
+      "company": "Infostics",
+      "title": "Developer",
+      "years": "06.2022 - 11.2023",
+      "mainTech": ["React.js", "Node.js", "Tailwind CSS"],
+      "technologies": [
+        "Express.js",
+        "REST APIs",
+        "JavaScript",
+        "MongoDB",
+        "Tailwind CSS"
+      ]
+    }
+  ]
+}

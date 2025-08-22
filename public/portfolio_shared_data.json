@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "name": "Muskan Kushwah",
+    "titles": [
+      "Full-Stack Engineer with AI/ML Focus",
+      "Full stack developer",
+      "AI/ML Engineer (Classic ML + Hugging Face Transformers + Deep Learning)"
+    ],
+    "social": [
+  {
+    "name": "github",
+    "url": "https://github.com/muskan1515",
+    "class": "fab fa-github"
+  },
+  {
+    "name": "huggingface",
+    "url": "https://huggingface.co/muskankushwah15",
+    "class": "fas fa-brain"
+  },
+  {
+    "name": "medium",
+    "url": "https://medium.com/@muskankushwah85",
+    "class": "fab fa-medium"
+  },
+  {
+    "name": "linkedin",
+    "url": "https://www.linkedin.com/in/muskan-kushwah-2845951b2/",
+    "class": "fab fa-linkedin"
+  },
+  {
+    "name": "mail",
+    "url": "mailto:muskankushwah85@gmail.com",
+    "class": "fas fa-envelope"
+  }
+],
+    "image": "myProfile.jpeg"
+  },
+  "skills": {
+  "icons": [
+    {
+      "name": "Python",
+      "class": "devicon-python-plain",
+      "level": "90"
+    },
+    {
+      "name": "TensorFlow",
+      "class": "devicon-tensorflow-original",
+      "level": "80"
+    },
+    {
+      "name": "Keras",
+      "class": "devicon-keras-plain",
+      "level": "75"
+    },
+    {
+      "name": "Hugging Face",
+      "class": "devicon-huggingface-plain", 
+      "level": "70"
+    },
+    {
+      "name": "Google Colab",
+      "class": "devicon-google-plain", 
+      "level": "85"
+    },
+    {
+      "name": "NumPy",
+      "class": "devicon-numpy-original",
+      "level": "90"
+    },
+    {
+      "name": "Pandas",
+      "class": "devicon-pandas-original",
+      "level": "85"
+    },
+    {
+      "name": "Scikit-learn",
+      "class": "devicon-scikitlearn-plain",
+      "level": "80"
+    },
+    {
+      "name": "Matplotlib",
+      "class": "devicon-matplotlib-plain",
+      "level": "80"
+    },
+    {
+      "name": "Seaborn",
+      "class": "devicon-seaborn-plain",
+      "level": "75"
+    },
+    {
+      "name": "FastAPI",
+      "class": "devicon-fastapi-plain",
+      "level": "80"
+    },
+    {
+      "name": "Node.js",
+      "class": "devicon-nodejs-plain",
+      "level": "85"
+    },
+    {
+      "name": "Express.js",
+      "class": "devicon-express-original",
+      "level": "80"
+    },
+    {
+      "name": "MongoDB",
+      "class": "devicon-mongodb-plain",
+      "level": "75"
+    },
+    {
+      "name": "Redis",
+      "class": "devicon-redis-plain",
+      "level": "65"
+    },
+    {
+      "name": "Docker",
+      "class": "devicon-docker-plain",
+      "level": "70"
+    },
+    {
+      "name": "AWS",
+      "class": "devicon-amazonwebservices-plain",
+      "level": "65"
+    },
+    {
+      "name": "JavaScript",
+      "class": "devicon-javascript-plain",
+      "level": "80"
+    },
+    {
+      "name": "TypeScript",
+      "class": "devicon-typescript-plain",
+      "level": "75"
+    },
+    {
+      "name": "React",
+      "class": "devicon-react-original",
+      "level": "80"
+    }
+  ]
+}
+
+}
